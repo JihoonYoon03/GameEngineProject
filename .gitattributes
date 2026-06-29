@@ -1,2 +1,15 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+**/T_vizcebf_8K_N.uasset filter=lfs diff=lfs merge=lfs -text
+**/T_vizhdcz_8K_N.uasset filter=lfs diff=lfs merge=lfs -text
+**/T_vizhdcz_8K_ORM.uasset filter=lfs diff=lfs merge=lfs -text
+**/T_ugxjcdpn_8K_B.uasset filter=lfs diff=lfs merge=lfs -text
+**/T_ugxjcdpn_8K_N.uasset filter=lfs diff=lfs merge=lfs -text
+**/T_sfjmafua_8K_B.uasset filter=lfs diff=lfs merge=lfs -text
+**/T_sfjmafua_8K_N.uasset filter=lfs diff=lfs merge=lfs -text
+**/T_sfjmafua_8K_ORM.uasset filter=lfs diff=lfs merge=lfs -text
+**/T_yd0lacrs_8k_B.uasset filter=lfs diff=lfs merge=lfs -text
+**/T_yd0lacrs_8k_N.uasset filter=lfs diff=lfs merge=lfs -text
+**/SM_Ind_Fac_Container_Drum_Metal_Worn_01.uasset filter=lfs diff=lfs merge=lfs -text
+**/SM_Ind_Fac_Container_Drum_Plastic_Worn_01.uasset filter=lfs diff=lfs merge=lfs -text
+**/SM_Urb_Str_Bin_Trash_Metal_Worn_01_B.uasset filter=lfs diff=lfs merge=lfs -text
