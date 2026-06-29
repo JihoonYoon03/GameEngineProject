@@ -30,6 +30,10 @@
 				"Android",
 				"IOS"
 			]
+		},
+		{
+			"Name": "ProceduralVegetationEditor",
+			"Enabled": true
 		}
 	]
 }
